@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.2.5",
         "zendtech/IbmiToolkit": "^1.8.0",
-        "bwicompanies/laravel-db2": "^7.0"
+        "bwicompanies/laravel-db2": "dev-master"
     },
     "require-dev": {
     },
